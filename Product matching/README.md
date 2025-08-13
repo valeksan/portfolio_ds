@@ -1,6 +1,6 @@
 # Исследовательская работа: Мэтчинг товаров
 
-[HTML](https://github.com/valeksan/portfolio_ds/blob/main/Product%20matching/P1_Portfolio.html)     [ipynb](https://github.com/valeksan/portfolio_ds/blob/main/Product%20matching/P1_Portfolio.ipynb)
+[ipynb](https://github.com/valeksan/portfolio_ds/blob/main/Product%20matching/P1_Portfolio.ipynb) | [html](https://github.com/valeksan/portfolio_ds/blob/main/Product%20matching/P1_Portfolio.html) | [просмотр](https://valeksan.github.io/P1_Portfolio.html)
 
 ## Описание проекта
 
